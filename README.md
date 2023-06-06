@@ -22,7 +22,11 @@ If your README is very long, add a table of contents to make it easy for users t
 - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
+- [Demo](#demo)
+- [Roadmap](#roadmap)
 - [Credits](#credits)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
 - [License](#license)
 
 ## Installation
@@ -44,7 +48,10 @@ To install and run this project, you need to have Python 3 installed on your sys
 
 - Run the following command to install the required packages into the virtual environment:
 
-  - On Windows, Linux or macOS: `pip install -r requirements.txt`
+  - On Windows, Linux or macOS: 
+    ```sh 
+    pip install -r requirements.txt
+    ```
 
   This will install all the packages listed in the requirements.txt file. You can also install any other packages you need using pip.
 
@@ -88,6 +95,13 @@ Here is a demo of how this project works:
 
 ![Demo GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) <!-- Replace this URL with your own demo GIF or video -->
 
+## Roadmap
+
+- [x] feature 1
+- [ ] feature 2
+  - [x] feature 2a
+  - [ ] feature 2b
+  
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
